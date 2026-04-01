@@ -1,23 +1,22 @@
 /* ============================================
    MARUTHI PSCC POLES – MAIN STYLESHEET
-   Theme: Industrial / Tech / Green+Black+Yellow
+   Theme: Clean White + Green + Yellow
    ============================================ */
 
 :root {
-  --green: #00C850;
-  --green-dark: #00A040;
-  --green-glow: rgba(0,200,80,0.4);
-  --yellow: #FFD700;
-  --yellow-dark: #E5C100;
-  --bg-dark: #0A0A0A;
-  --bg-card: #111111;
-  --bg-card2: #141414;
-  --white: #FFFFFF;
-  --grey: rgba(255,255,255,0.55);
-  --border: rgba(255,255,255,0.08);
-  --shadow: 0 25px 80px rgba(0,0,0,0.5);
+  --green: #00A040;
+  --green-dark: #007A30;
+  --green-glow: rgba(0,160,64,0.25);
+  --yellow: #D4A500;
+  --yellow-dark: #B08C00;
+  --bg-dark: #FFFFFF;
+  --bg-card: #F5F7F5;
+  --bg-card2: #EEF2EE;
+  --white: #111111;
+  --grey: rgba(0,0,0,0.55);
+  --border: rgba(0,0,0,0.10);
+  --shadow: 0 25px 80px rgba(0,0,0,0.12);
 }
-
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 html { scroll-behavior: smooth; }
